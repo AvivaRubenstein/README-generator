@@ -63,8 +63,10 @@ ${data.description}
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
 - [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Installation
 
@@ -74,19 +76,12 @@ ${data.installation}
 
 ${data.usage}
 
-## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
 
 ## License
 
 ${licenseSection}
 
-## How to Contribute
+## Contributing
 
 ${data.contribution}
 
@@ -95,8 +90,10 @@ ${data.contribution}
 ${data.testing}
 
 ## Questions:
+
 To contact me with additional questions, please reach out via GitHub:
-${data.github}
+[${data.github}](https://github.com/${data.github})
+
 or via email:
 ${data.email}
 
