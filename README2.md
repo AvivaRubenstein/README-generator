@@ -1,10 +1,10 @@
-# README generator
+# lkj;
   
-  ![LicenseBadge](https://img.shields.io/badge/License-GPL-blue.svg)
+  ![LicenseBadge](https://img.shields.io/bower/l/bootstrap?style=for-the-badge)
 
 ## Description
 
-generates high quality professional readme files
+;klj
 
 ## Table of Contents 
 
@@ -15,11 +15,11 @@ generates high quality professional readme files
 
 ## Installation
 
-open URL: asdkfjasldkf
+jkl'j
 
 ## Usage
 
-type in what you want for each section
+jk;ljk;l
 
 ## Credits
 
@@ -31,33 +31,20 @@ If you followed tutorials, include links to those here as well.
 
 ## License
 
-This project uses the GPL license, which can be referenced at https://spdx.org/licenses/GPL-3.0-or-later.html .
-
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
+This project uses the MIT license, which can be referenced at https://spdx.org/licenses/MIT.html .
 
 ## How to Contribute
 
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+jkljl;
 
 ## Tests
 
+klj;
+
 ## Questions:
 To contact me with additional questions, please reach out via GitHub:
-asdfkljasdf
+cgjfcfgh
 or via email:
-asdfkjasld;fjas
+ghjg
 
 
