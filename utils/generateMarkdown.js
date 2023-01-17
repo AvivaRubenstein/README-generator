@@ -10,8 +10,7 @@ function renderLicenseBadge(license) {
       badgeLink = "https://img.shields.io/aur/license/bootstrap?style=for-the-badge";
       break;
     case "GPL":
-      //NOT THE CORRECT BADGE - update!
-      badgeLink = "https://img.shields.io/aur/license/bootstrap?style=for-the-badge";
+      badgeLink = "https://img.shields.io/badge/License-GPL-blue.svg";
       break;
     case "none":
       badgeLink = "";

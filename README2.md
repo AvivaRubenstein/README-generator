@@ -1,10 +1,10 @@
-# asdfkj
+# README generator
   
-  ![LicenseBadge](https://img.shields.io/bower/l/bootstrap?style=for-the-badge)
+  ![LicenseBadge](https://img.shields.io/badge/License-GPL-blue.svg)
 
 ## Description
 
-asdflkjas;df
+generates high quality professional readme files
 
 ## Table of Contents 
 
@@ -15,11 +15,11 @@ asdflkjas;df
 
 ## Installation
 
-asdflkjas;df
+open URL: asdkfjasldkf
 
 ## Usage
 
-asdlkfjas;ldf
+type in what you want for each section
 
 ## Credits
 
@@ -31,7 +31,7 @@ If you followed tutorials, include links to those here as well.
 
 ## License
 
-This project uses the MIT license, which can be referenced at https://spdx.org/licenses/MIT.html .
+This project uses the GPL license, which can be referenced at https://spdx.org/licenses/GPL-3.0-or-later.html .
 
 
 ---
@@ -54,10 +54,10 @@ If you created an application or package and would like other developers to cont
 
 ## Tests
 
-##Questions:
+## Questions:
 To contact me with additional questions, please reach out via GitHub:
-asdlkfjasd
-or via email:
 asdfkljasdf
+or via email:
+asdfkjasld;fjas
 
 
