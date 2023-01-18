@@ -52,16 +52,6 @@ const questions = [
     },
 ];
 
-//   .then((answers) => {
-//     const markdownContent = generateMarkdown(answers);
-
-//     fs.writeFile('README.md', markdownContent, (err) =>
-//     err? console.log(err) : console.log("Successfully created README.md!"));
-
-//   });
-
-
-
 
 
 

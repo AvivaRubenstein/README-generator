@@ -1,10 +1,10 @@
-# asdflkjasdf
+# README Generator
   
-  ![LicenseBadge]()
+  ![LicenseBadge](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
 
 ## Description
 
-asdfljkas dl;f
+This project generates a README file based on information the user inputs in the terminal
 
 ## Table of Contents 
 
@@ -17,31 +17,31 @@ asdfljkas dl;f
 
 ## Installation
 
-asdlfkjasdf
+To install the project.....
 
 ## Usage
 
-asdfkalsd;f
+To use the project, you should....
 
 
 ## License
 
-
+This project uses the Apache license, which can be referenced at https://spdx.org/licenses/Apache-2.0.html .
 
 ## Contributing
 
-asdflkajsdf
+Contributions to this project can be made by.....
 
 ## Tests
 
-asdflkjasdf
+To test the application...
 
 ## Questions:
 
 To contact me with additional questions, please reach out via GitHub:
-[fasdlfk](https://github.com/fasdlfk)
+[AvivaRubenstein](https://github.com/AvivaRubenstein)
 
 or via email:
-asdfaklsdfa
+name@gmail.com
 
 
